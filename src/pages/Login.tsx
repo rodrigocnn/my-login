@@ -16,7 +16,6 @@ function Login() {
       password
     }
      await signIn(data)
-   
   }
 
   if(isAuthenticated){
